@@ -1,0 +1,26 @@
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.csproj.AssemblyReference.cache
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.AssemblyInfoInputs.cache
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.AssemblyInfo.cs
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.csproj.CoreCompileInputs.cache
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.deps.json
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.runtimeconfig.json
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.runtimeconfig.dev.json
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.dll
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.pdb
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.dll
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.pdb
+D:\Documents\Fanshawe\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.genruntimeconfig.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.deps.json
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.runtimeconfig.json
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.runtimeconfig.dev.json
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.dll
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\bin\Debug\netcoreapp2.2\FormApp.pdb
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.csproj.AssemblyReference.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.AssemblyInfoInputs.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.AssemblyInfo.cs
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.csproj.CoreCompileInputs.cache
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.dll
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.pdb
+F:\Fanshawe\Summer 2022\Software Design\Project 3\CP-Project 3\obj\Debug\netcoreapp2.2\FormApp.genruntimeconfig.cache

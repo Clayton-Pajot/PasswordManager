@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcK36i0bQMnEIiVoSOTC5bhd6P6bEKkjzYngYcnSmAgGCvVUNUf88qho9ufQuIVVjYjKAz5bvs2KYIkbB4u2yA==",
+  "success": true,
+  "projectFilePath": "F:\\Fanshawe\\Summer 2022\\Software Design\\Project 3\\CP-Project 3\\FormApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Clayton\\.nuget\\packages\\runtime.osx-x64.microsoft.netcore.app\\2.0.0\\runtime.osx-x64.microsoft.netcore.app.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
